@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: first-node-js
+  host: first-node-js
+  disk_quota: 1024M
